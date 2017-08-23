@@ -1,0 +1,5 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModulTask1\NetModulTask1\bin\Debug\NetModulTask1.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModulTask1\NetModulTask1\bin\Debug\NetModulTask1.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModulTask1\NetModulTask1\bin\Debug\NetModulTask1.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModulTask1\NetModulTask1\obj\Debug\NetModulTask1.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModulTask1\NetModulTask1\obj\Debug\NetModulTask1.pdb
